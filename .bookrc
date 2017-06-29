@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Lost World",
-  "type": "text"
+  "type": "text",
+  "book_id": 463
 }
